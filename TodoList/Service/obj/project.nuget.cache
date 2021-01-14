@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SQ+6BPstD0pB+HN9OfY+pPrtOG7JNJTiXUcFJCabQfiMk5bz7LacdSYuyR8nMc+eh2UopFsJ0h5otIP/3K8jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonas Freire\\workspace\\TODO-List\\TodoList\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonas Freire\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jonas Freire\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

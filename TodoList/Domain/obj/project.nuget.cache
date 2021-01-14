@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBtmLCkeFCJMQJHovKP1OFVarCTtzuCyREptQr16g1JL1+XEZjRdfcH8sV9jy1XT7oYX9SxiHZk7Z2nx5kXW9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonas Freire\\workspace\\TODO-List\\TodoList\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonas Freire\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jonas Freire\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
