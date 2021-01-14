@@ -36,6 +36,7 @@ A layer which implements peripheric functionalities as data access, access to ot
 - [x] Implementation of Repository interface
 - [x] Implementation of Service interface
 - [x] Implementation of Application layer
+- [ ] Setup do startup file at Application project
 - [ ] Implementation and utilization of mappers by service
 - [ ] Creation of entities unit tests
 - [ ] Creation of controllers unit tests
